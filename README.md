@@ -1,6 +1,6 @@
 # NTUA ECE Introduction to VLSI Systems Design Course
 
-This repository showcases the laboratory exercises and projects I completed during the Introduction to VLSI Systems Design course. Through this coursework, I gained hands-on experience in CMOS logic design, hierarchical circuit modeling, logical effort delay analysis, and Verilog HDL programming.
+This repository showcases the laboratory exercises and projects I completed during the Introduction to VLSI Systems Design course. Through this coursework, I developed practical expertise in CMOS logic design, hierarchical circuit modeling, logical effort delay analysis, and Verilog HDL programming.
 
 ## Laboratory Exercises
 
