@@ -4,7 +4,7 @@ This repository showcases the laboratory exercises and projects I completed duri
 
 ## Laboratory Exercises
 
-### 1. Lab 1: CMOS Logic & Transmission Gates
+### Lab 1: CMOS Logic & Transmission Gates
 *Practical implementation of a CMOS Inverter and a Transmission Gate.*
 
 * **Key Tasks:**
@@ -12,7 +12,7 @@ This repository showcases the laboratory exercises and projects I completed duri
   * **Part B (Transmission Gate):** Designed and simulated a CMOS transmission gate, verifying its ability to pass signals without voltage degradation compared to a single pass transistor.
 * **Tech Stack:** Microwind, Transistor-Level Modeling.
 
-### 2. Lab 2: Complex Logic Gates & Multiplexers
+### Lab 2: Complex Logic Gates & Multiplexers
 *Design and simulation of complex boolean functions and multiplexers.*
 
 * **Key Tasks:**
@@ -21,7 +21,7 @@ This repository showcases the laboratory exercises and projects I completed duri
   * **Part C (Multiplexer 2x1):** Created a 2-to-1 Multiplexer using a custom complementary CMOS logic style.
 * **Tech Stack:** Microwind, CMOS Complex Gates.
 
-### 3. Lab 3: Full Adder & Delay Analysis
+### Lab 3: Full Adder & Delay Analysis
 *Analysis of propagation delays and transistor sizing in CMOS circuits.*
 
 * **Key Tasks:**
@@ -30,7 +30,7 @@ This repository showcases the laboratory exercises and projects I completed duri
   * **Part C (Transistor Sizing):** Calculated input capacitance, intrinsic delay, and the $K_{load}$ slope for inverters with varying widths (k=1, 4, 8) to create custom datasheets.
 * **Tech Stack:** Microwind, Delay & Capacitance Calculations.
 
-### 4. Lab 4: Logical Effort & Gate Optimization
+### Lab 4: Logical Effort & Gate Optimization
 *Minimizing path delay using logical effort calculations.*
 
 * **Key Tasks:**
@@ -38,7 +38,7 @@ This repository showcases the laboratory exercises and projects I completed duri
   * **Part B (6-Input AND Optimization):** Analyzed four different topological implementations of a 6-input AND gate using logical effort to find the optimal path for different electrical efforts (H=5 and H=18).
 * **Tech Stack:** Microwind, Logical Effort Theory, Path Delay Optimization.
 
-### 5. Lab 5: Arithmetic Circuits & Sequential Logic
+### Lab 5: Arithmetic Circuits & Sequential Logic
 *Design of arithmetic circuits and sequential memory elements using Verilog and Microwind.*
 
 * **Key Tasks:**
@@ -46,7 +46,7 @@ This repository showcases the laboratory exercises and projects I completed duri
   * **Part B (Latches and Flip-Flops):** Designed and simulated a D Latch, both negative and positive edge-triggered D flip-flops, and a frequency-dividing T flip-flop.
 * **Tech Stack:** Microwind, Verilog HDL.
 
-### 6. Lab 6: Hierarchical ALU Design
+### Lab 6: Hierarchical ALU Design
 *Hierarchical design of a 3-bit Arithmetic Logic Unit (ALU) using CMOS logic gates and Verilog.*
 
 * **Key Tasks:**
